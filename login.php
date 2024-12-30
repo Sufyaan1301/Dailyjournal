@@ -42,7 +42,7 @@
                 <div class="card-body">
                     <div class="text-center mb-3 fs-3">
                         <img src="img/WEC_logos2.png" class="w-25 rounded-circle">
-                        <p>Login</p>
+                        <p>login</p>
                         <hr/>
                     </div>
                     <form action="" method="post" name="form">
